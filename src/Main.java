@@ -53,7 +53,7 @@ public class Main extends JFrame {
         updateWordLabel();
         messageLabel.setText("Guess a letter:");
         inputField.setText("");
-        guessButton.setEnabled(true);
+
     }
 
     private void updateWordLabel() {
